@@ -6,7 +6,7 @@
 
 - Prácticas de aula
 
-  - Práctica A1. 
+  - Práctica A1. [Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw)
 
 - Prácticas de desarrollo
 
