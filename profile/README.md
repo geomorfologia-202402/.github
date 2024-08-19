@@ -2,7 +2,7 @@
 
 ![](qr.jpg)
 
-- [Programa](https://github.com/geomorfologia-202402/.github/blob/main/profile/programa-geomorfologia.pdf)
+- [Programa](programa-geomorfologia-202402.pdf)
 
 - Prácticas de aula
 
