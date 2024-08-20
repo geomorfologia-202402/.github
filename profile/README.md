@@ -6,7 +6,7 @@
 
 - Prácticas de aula
 
-  - Práctica A1. [Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-202402/geomorfologia-202402-pa01-interpolacion-idw)
+  - [PA01. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-202402/geomorfologia-202402-pa01-interpolacion-idw)
 
 - Prácticas de desarrollo
 
