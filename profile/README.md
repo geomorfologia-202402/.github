@@ -12,7 +12,7 @@
 
 - Prácticas de desarrollo
 
-<!--  - Práctica D1.  -->
+  - [PD01. Hola Mundo](https://classroom.github.com/a/8b5Nk4vy)
 
 - [Proyecto](https://github.com/geomorfologia-202402/proyecto)
 
