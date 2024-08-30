@@ -6,13 +6,13 @@
 
 - Prácticas de aula
 
-  - [PA01. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-202402/geomorfologia-202402-pa01-interpolacion-idw)
+  - [PA01. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-202402/geomorfologia-202402-pa01-interpolacion-idw). Plazo de entrega: 19 de agosto, 2024, 7:59 pm.
   
-  - [PA02. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones)
+  - [PA02. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 26 de agosto, 2024, 7:59 pm.
 
 - Prácticas de desarrollo
 
-  - [PD01. Hola Mundo](https://classroom.github.com/a/wy0aU1nv). Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciaday perteneces a la organización `biogeografia-202402` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
+  - [PD01. Hola Mundo](https://classroom.github.com/a/wy0aU1nv). Plazo de entrega: 6 de septiembre, 2024, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `biogeografia-202402` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
 
 - [Proyecto](https://github.com/geomorfologia-202402/proyecto)
 
