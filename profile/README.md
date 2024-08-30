@@ -12,7 +12,7 @@
 
 - Prácticas de desarrollo
 
-  - [PD01. Hola Mundo](https://classroom.github.com/a/wy0aU1nv). Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciaday perteneces a la organización `biogeografia-202402` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"]().
+  - [PD01. Hola Mundo](https://classroom.github.com/a/wy0aU1nv). Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciaday perteneces a la organización `biogeografia-202402` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje para invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
 
 - [Proyecto](https://github.com/geomorfologia-202402/proyecto)
 
