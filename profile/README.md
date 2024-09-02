@@ -9,6 +9,8 @@
   - [PA01. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-202402/geomorfologia-202402-pa01-interpolacion-idw). Plazo de entrega: 19 de agosto, 2024, 7:59 pm.
   
   - [PA02. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 26 de agosto, 2024, 7:59 pm.
+  
+  - [PA03. Agrupar provincias según su formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm.
 
 - Prácticas de desarrollo
 
