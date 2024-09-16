@@ -10,9 +10,11 @@
   
   - [PA02. Mapa geomorfológico de RD y Elevaciones](https://github.com/geomorfologia-master/mapa-geomorfologico-rd-y-elevaciones). Plazo de entrega: 26 de agosto, 2024, 7:59 pm.
   
-  - [PA03. Agrupar provincias según su formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm.
+  - [PA03. Agrupar provincias según sus formas predominantes](https://github.com/geomorfologia-master/agrupamiento-por-formas). Plazo de entrega: 2 de septiembre, 2024, 7:59 pm.
   
   - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm.
+  
+  - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm.
 
 - Prácticas de desarrollo
 
