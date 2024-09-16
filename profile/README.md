@@ -14,7 +14,7 @@
   
   - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm.
   
-  - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm.
+  - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/tiempo-en-geomorfologia). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm.
 
 - Prácticas de desarrollo
 
