@@ -18,6 +18,8 @@
 
   - [PA06. Procesa datos GNSS y obtén soluciones fijas](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas). Plazo de entrega: 14 de octubre, 2024, 7:59 pm.
 
+  - [PA07. Morfometría de cuencas y procesos fluviales](https://github.com/geomorfologia-master/sistema-fluvial-morfometria-cuenca-basica). Plazo de entrega: 15 de octubre de 2024, 11:59 pm.
+
 
 - Prácticas de desarrollo
 
