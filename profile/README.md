@@ -27,5 +27,7 @@
   
   - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/1A_q9IhP). Plazo de entrega: 30 de septiembre, 2024, 11:59 pm.
 
-- [Proyecto](https://github.com/geomorfologia-202402/proyecto)
+- Proyecto de desarrollo
+
+  - [Proyecto de desarrollo. Tu tema, tu investigación Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD). Semestre 2024-02](https://classroom.github.com/a/mgLR5YV8). Plazo de entrega: 10 de diciembre, 2024, 11:59 pm.
 
